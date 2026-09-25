@@ -46,8 +46,8 @@ Official workflow reference: [GitHub Pages custom workflows](https://docs.github
 
 The supplied logo, portraits and concept render remain Argys materials. The research figure retains its original attribution and CC BY 4.0 license; see `site/sources.html`. Contact links use `cbo@argys.net` and `ceo@argys.net`; the visitor's email application sends the message. There is no server-side submission or mailing list.
 
-## Launch status
+## Deployment
 
-The local build is complete, and the target repository is [aayushvaswani/argys-website](https://github.com/aayushvaswani/argys-website). Upload and Pages deployment are pending: terminal authentication is not configured, and the browser extension needs local-file upload permission. The site is not publicly live yet.
+Repository: [aayushvaswani/argys-website](https://github.com/aayushvaswani/argys-website). The production URL is [aayushvaswani.github.io/argys-website](https://aayushvaswani.github.io/argys-website/). The repository's Actions tab shows the latest deployment status.
 
 The privacy page describes the current static implementation and should be updated if analytics, forms or third-party embeds are added.
