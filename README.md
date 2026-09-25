@@ -48,6 +48,6 @@ The supplied logo, portraits and concept render remain Argys materials. The rese
 
 ## Deployment
 
-Repository: [aayushvaswani/argys-website](https://github.com/aayushvaswani/argys-website). The production URL is [aayushvaswani.github.io/argys-website](https://aayushvaswani.github.io/argys-website/). The repository's Actions tab shows the latest deployment status.
+Repository: [ArgysLLC/argys-website](https://github.com/ArgysLLC/argys-website). The production URL is [argysllc.github.io/argys-website](https://argysllc.github.io/argys-website/). The repository's Actions tab shows the latest deployment status.
 
 The privacy page describes the current static implementation and should be updated if analytics, forms or third-party embeds are added.
