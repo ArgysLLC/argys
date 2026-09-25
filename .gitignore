@@ -1,0 +1,10 @@
+node_modules/
+dist/
+planning/
+.DS_Store
+.env*
+!.env.example
+*.log
+.codex/
+.agents/
+releases/
